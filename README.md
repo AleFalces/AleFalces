@@ -12,8 +12,6 @@ Siempre me intereso el mundo de la tecnología, pero no había tenido contacto f
 - Soy una persona creativa, simpática , divertida, proactiva y comprometida con todo lo que hago, con muchos deseos de aprender y mejorar mis habilidades y conocimientos día a día.
  Me encanta entablar nuevas relaciones, teniendo siempre presente la comunicación asertiva y el respeto. Disfruto de trabajar en equipo y busco constantemente crecer tanto profesional como personalmente.  
   
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
@@ -58,7 +56,7 @@ Siempre me intereso el mundo de la tecnología, pero no había tenido contacto f
 <br/>  
 
 
-## Connect with me  
+## ¿Quieres saber más sobre mí? ¡Contáctame!
 <div align="center">
 <a href="https://github.com/https://github.com/AleFalces" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -66,5 +64,6 @@ Siempre me intereso el mundo de la tecnología, pero no había tenido contacto f
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexis-falces-95b892252/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<h3>e-mail: alefalces@gmail.com</h3>
 </div>  
   
