@@ -14,7 +14,7 @@ He dedicado muchos años a la **música**, tanto como docente en **teoría music
 
 <br/>
 ## ◽ Languages & Tools
-
+<table><tr><td valign="top" width="33%">
 ### Frontend 🚀
 <div align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40"/></a>
@@ -25,7 +25,7 @@ He dedicado muchos años a la **música**, tanto como docente en **teoría music
   <a href="https://sweetalert2.github.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sweetalert2.png" alt="SweetAlert2" height="40"/></a>
   <a href="https://lucide.dev/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/code-file.svg" alt="Lucide-react" height="40"/></a>
 </div>
-
+</td><td valign="top" width="33%">
 ### Backend 🖥️
 <div align="center">
   <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40"/></a>
@@ -36,7 +36,9 @@ He dedicado muchos años a la **música**, tanto como docente en **teoría music
   <a href="https://vercel.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel" height="40"/></a>
   <a href="https://render.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/render.png" alt="Render" height="40"/></a>
 </div>
+</td></tr></table>  
 
+<br/>
 ---
 
 <br/>
