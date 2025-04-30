@@ -32,11 +32,11 @@ Mi objetivo es encontrar mi primer rol full-time en tecnología, unirme a un equ
 🚀 Frontend 🚀
 <div align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="[https://profilinator.rishav.dev/skills-assets/nextjs-original-wordmark.svg](https://global.discourse-cdn.com/auth0/optimized/2X/a/ae35edce19e64c53e5d455b22e8a2c82d093d4c9_2_556x500.png)" alt="Next.js" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs-original-wordmark.svg](https://global.discourse-cdn.com/auth0/optimized/2X/a/ae35edce19e64c53e5d455b22e8a2c82d093d4c9_2_556x500.png" alt="Next.js" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40"/></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS" height="40"/></a>
-  <a href="https://sweetalert2.github.io/" target="_blank"><img src="[https://img.icons8.com/color/48/000000/sweetalert2.png](https://rohit-chouhan.gallerycdn.vsassets.io/extensions/rohit-chouhan/sweetalert2-snippet/1.1.2/1625627316335/Microsoft.VisualStudio.Services.Icons.Default)" alt="SweetAlert2" height="40"/></a>
+  <a href="https://sweetalert2.github.io/" target="_blank"><img src="[https://rohit-chouhan.gallerycdn.vsassets.io/extensions/rohit-chouhan/sweetalert2-snippet/1.1.2/1625627316335/Microsoft.VisualStudio.Services.Icons.Default" alt="SweetAlert2" height="40"/></a>
 
 </div>
 </td><td valign="top" width="33%">
