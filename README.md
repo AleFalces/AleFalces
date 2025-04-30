@@ -29,7 +29,7 @@ Mi objetivo es encontrar mi primer rol full-time en tecnología, unirme a un equ
 
 ## ◽ Languages & Tools
 <table><tr><td valign="top" width="33%">
-🚀 Frontend 🚀
+**🚀 Frontend 🚀**
 <div align="center">
   <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://global.discourse-cdn.com/auth0/optimized/2X/a/ae35edce19e64c53e5d455b22e8a2c82d093d4c9_2_556x500.png" alt="Next.js" height="40"/></a>
@@ -37,17 +37,17 @@ Mi objetivo es encontrar mi primer rol full-time en tecnología, unirme a un equ
   <a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS" height="40"/></a>
   <a href="https://sweetalert2.github.io/" target="_blank"><img src="https://rohit-chouhan.gallerycdn.vsassets.io/extensions/rohit-chouhan/sweetalert2-snippet/1.1.2/1625627316335/Microsoft.VisualStudio.Services.Icons.Default" alt="SweetAlert2" height="40"/></a>
+   <a href="https://vercel.com/" target="_blank"><img src="https://images.ctfassets.net/crb83veve8xb/2VaNf5PhpBlvKAUKYfmefe/5fdaf99f05704485b02e14e8d4addefb/vercel.webp" alt="Vercel" height="40"/></a>
 
 </div>
 </td><td valign="top" width="33%">
-🖥️ Backend 🖥️
+**🖥️ Backend 🖥️**
 <div align="center">
   <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40"/></a>
-  <a href="https://typeorm.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typeorm.png" alt="TypeORM" height="40"/></a>
+  <a href="https://typeorm.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typeorm.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScqk5IbqqjndCgmdmCo7joL701uAxwPl-ToJ9ViCzOpdGoq_YhK2XPA2eYd9MkDZkZMsI&usqp=CAU" alt="TypeORM" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel" height="40"/></a>
   <a href="https://render.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/render.png" alt="Render" height="40"/></a>
 </div>
 </td></tr></table>
