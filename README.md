@@ -46,7 +46,7 @@ Mi objetivo es encontrar mi primer rol full-time en tecnología, unirme a un equ
   <a href="https://nodejs.org/" target="_blank"><img  style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
-  <a href="https://typeorm.io/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/typeorm.png" alt="TypeORM" height="40"/></a>
+  <a href="https://typeorm.io/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/typeorm.png(https://avatars.githubusercontent.com/u/20165699?v=4)" alt="TypeORM" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" /></a> 
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/></a>
