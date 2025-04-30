@@ -50,7 +50,7 @@ Mi objetivo es encontrar mi primer rol full-time en tecnología, unirme a un equ
   <a href="https://vercel.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel" height="40"/></a>
   <a href="https://render.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/render.png" alt="Render" height="40"/></a>
 </div>
-</td></tr></tabl
+</td></tr></table>
 
 ---
 
