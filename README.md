@@ -32,7 +32,7 @@ Mi objetivo es encontrar mi primer rol full-time en tecnología, unirme a un equ
 🚀** Frontend **🚀
 <div align="center">
   <a href="https://reactjs.org/" target="_blank"><img  style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://global.discourse-cdn.com/auth0/optimized/2X/a/ae35edce19e64c53e5d455b22e8a2c82d093d4c9_2_556x500.png" alt="Next.js" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9uzErWz9EXqZDxZ5lP9aYpMz8eK6rr5X3w&s" alt="Next.js" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40"/></a>
   <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS" height="40"/></a>
@@ -44,14 +44,13 @@ Mi objetivo es encontrar mi primer rol full-time en tecnología, unirme a un equ
 🖥️** Backend **🖥️
 <div align="center">
   <a href="https://nodejs.org/" target="_blank"><img  style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="30"/></a>
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
-  <a href="https://typeorm.io/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/48/000000/typeorm.png(https://avatars.githubusercontent.com/u/20165699?v=4)" alt="TypeORM" height="40"/></a>
+  <a href="https://typeorm.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/20165699?v=4" alt="TypeORM" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" /></a> 
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/></a>
   <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="40" /></a>  
-  <a href="https://render.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/fluency/48/000000/render.png alt="Render" height="40"/></a>
+  <a href="https://render.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" alt="Render" height="40"/></a>
 </div>
 </td></tr></table>
 
