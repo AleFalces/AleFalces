@@ -27,56 +27,30 @@ Mi objetivo es encontrar mi primer rol full-time en tecnología, unirme a un equ
 
 ---
 
-## ◽ **Languages & Tools**
-## ◽ **Languages & Tools**
-
-| <div align="center">**Frontend** 🚀</div> | <div align="center">**Backend** 🖥️</div> |
-| :--------------------------------------: | :---------------------------------------: |
-| <div align="center">
-    <a href="https://reactjs.org/" target="_blank">
-      <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="60" />
-    </a>
-    <a href="https://nextjs.org/" target="_blank">
-      <img src="https://profilinator.rishav.dev/skills-assets/nextjs-original-wordmark.svg" alt="Next.js" height="60" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" />
-    </a>
-    <a href="https://redux.js.org/" target="_blank">
-      <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="60" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank">
-      <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" height="60" />
-    </a>
-    <a href="https://sweetalert2.github.io/" target="_blank">
-      <img src="https://img.icons8.com/color/96/000000/sweetalert2.png" alt="SweetAlert2" height="60" />
-    </a>
-    <a href="https://lucide.dev/" target="_blank">
-      <img src="https://img.icons8.com/fluency/96/000000/code-file.svg" alt="Lucide-react" height="60" />
-    </a>
-  </div> | <div align="center">
-    <a href="https://nodejs.org/" target="_blank">
-      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="60" />
-    </a>
-    <a href="https://expressjs.com/" target="_blank">
-      <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="60" />
-    </a>
-    <a href="https://typeorm.io/" target="_blank">
-      <img src="https://img.icons8.com/color/96/000000/typeorm.png" alt="TypeORM" height="60" />
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank">
-      <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="60" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="60" />
-    </a>
-    <a href="https://vercel.com/" target="_blank">
-      <img src="https://img.icons8.com/color/96/000000/vercel.png" alt="Vercel" height="60" />
-    </a>
-    <a href="https://render.com/" target="_blank">
-      <img src="https://img.icons8.com/fluency/96/000000/render.png" alt="Render" height="60" />
-    </a>
-  </div> 
+## ◽ Languages & Tools
+<table><tr><td valign="top" width="33%">
+### Frontend 🚀
+<div align="center">
+  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nextjs-original-wordmark.svg" alt="Next.js" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40"/></a>
+  <a href="https://redux.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" height="40"/></a>
+  <a href="https://sweetalert2.github.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sweetalert2.png" alt="SweetAlert2" height="40"/></a>
+  <a href="https://lucide.dev/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/code-file.svg" alt="Lucide-react" height="40"/></a>
+</div>
+</td><td valign="top" width="33%">
+### Backend 🖥️
+<div align="center">
+  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40"/></a>
+  <a href="https://typeorm.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typeorm.png" alt="TypeORM" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel" height="40"/></a>
+  <a href="https://render.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/render.png" alt="Render" height="40"/></a>
+</div>
+</td></tr></tabl
 
 ---
 
