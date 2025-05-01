@@ -29,7 +29,7 @@ Mi objetivo es encontrar mi primer rol full-time en tecnología, unirme a un equ
 
 ## ◽ Languages & Tools
 <table><tr><td valign="top" width="33%">
-🚀** Frontend **🚀
+🚀* Frontend *🚀
 <div align="center">
   <a href="https://reactjs.org/" target="_blank"><img  style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40"/></a>
   <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9uzErWz9EXqZDxZ5lP9aYpMz8eK6rr5X3w&s" alt="Next.js" height="40"/></a>
@@ -41,7 +41,7 @@ Mi objetivo es encontrar mi primer rol full-time en tecnología, unirme a un equ
 
 </div>
 </td><td valign="top" width="33%">
-🖥️** Backend **🖥️
+🖥️* Backend *🖥️
 <div align="center">
   <a href="https://nodejs.org/" target="_blank"><img  style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="30"/></a>
