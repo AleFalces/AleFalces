@@ -62,7 +62,7 @@ Mi objetivo es encontrar mi primer rol full-time en tecnología, unirme a un equ
   <a href="https://github.com/AleFalces" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/alexis-falces-95b892252/" target="_blank">
+  <a href="https://www.linkedin.com/in/alefalces/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <h3>✉️ <a href="mailto:alefalces@gmail.com">alefalces@gmail.com</a></h3>
